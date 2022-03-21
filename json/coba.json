@@ -1,0 +1,30 @@
+[
+	{
+		"nama" : "Muhammad Aqil Emeraldi",
+		"umur" : 20,
+		"nim"  : "41187005170003",
+		"lulus": false,
+		"hobi" : [
+			"tidur",
+			"makan"
+		],
+		"pembimbing" : {
+			"pembimbing1" : "siapa hayo",
+			"pembimbing2" : "rahasia"
+		}
+	},
+	{
+		"nama" : "Muhammad Aqil Emeraldi",
+		"umur" : 20,
+		"nim"  : "41187005170003",
+		"lulus": false,
+		"hobi" : [
+			"tidur",
+			"makan"
+		],
+		"pembimbing" : {
+			"pembimbing1" : "siapa hayo",
+			"pembimbing2" : "rahasia"
+		}
+	}
+]
